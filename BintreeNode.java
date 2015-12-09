@@ -39,5 +39,8 @@ public class BintreeNode{
 			this.value = elements[0];
 		}
 
+		int i = 0;
+		return null;
+
 	}
 }
